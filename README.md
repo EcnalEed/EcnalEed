@@ -1,5 +1,7 @@
 <img src="https://github.com/EcnalEed/EcnalEed/blob/main/Banner.jpg" alt="Banner">
 
+[![Lance's GitHub stats](https://github-readme-stats.vercel.app/api?username=EcnalEed)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **EcnalEed/EcnalEed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
