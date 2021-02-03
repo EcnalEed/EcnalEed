@@ -1,6 +1,6 @@
 <img src="https://github.com/EcnalEed/EcnalEed/blob/main/Banner.jpg" alt="Banner">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EcnalEed&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EcnalEed&show_icons,hide=stars,commits,prs,issues,contribs=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EcnalEed&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
