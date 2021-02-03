@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://github.com/EcnalEed/EcnalEed/blob/main/Banner.jpg" alt="Banner">
 
 <!--
 **EcnalEed/EcnalEed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
