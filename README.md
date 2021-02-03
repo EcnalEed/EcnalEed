@@ -1,7 +1,6 @@
 <img src="https://github.com/EcnalEed/EcnalEed/blob/main/Banner.jpg" alt="Banner">
-## Hi there 👋
 
-I'm Lance. 
+## Hi there 👋 I'm Lance. 
 
 ### Technologies that I'm currently using 💻:
 
