@@ -1,7 +1,10 @@
 <img src="https://github.com/EcnalEed/EcnalEed/blob/main/Banner.jpg" alt="Banner">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EcnalEed&show_icons,hide=stars,commits,prs,issues,contribs=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EcnalEed&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Languages I Know 💻:
+
+![HTML5](https://img.shields.io/badge/HTML5-Intermediate-d1d1d1?style=for-the-badge&logo=HTML5&labelColor=E34F26&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-Intermediate-d1d1d1?style=for-the-badge&logo=CSS3&labelColor=1572B6&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-Basic-d1d1d1?style=for-the-badge&logo=Sass&labelColor=CC6699&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-Basic-d1d1d1?style=for-the-badge&logo=JavaScript&labelColor=F7DF1E&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-Intermediate-d1d1d1?style=for-the-badge&logo=Bootstrap&labelColor=7952B3&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-Nearly_Intermediate-d1d1d1?style=for-the-badge&logo=jQuery&labelColor=0769AD&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-Basic-d1d1d1?style=for-the-badge&logo=JSON&labelColor=000000&logoColor=white)
 
 <!--
 **EcnalEed/EcnalEed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
