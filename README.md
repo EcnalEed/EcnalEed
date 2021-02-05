@@ -2,7 +2,7 @@
 
 ## Hi there 👋 I'm Lance.
 
-Currently pursuing BS Information Technology in Mapúa University.
+Currently pursuing a Bachelor's Degree in Information Technology at Mapúa University. 
 
 ### Technologies that I'm currently using 💻:
 
