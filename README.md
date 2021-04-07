@@ -9,6 +9,8 @@ Currently pursuing a Bachelor's Degree in Information Technology at Mapúa Unive
 [![Android Studio](https://img.shields.io/badge/Android_Studio-code_editor-d1d1d1?style=for-the-badge&logo=Android&labelColor=33cc5a&logoColor=white)](https://code.visualstudio.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-Code%20Editor-d1d1d1?style=for-the-badge&logo=Visual-Studio-Code&labelColor=007ACC&logoColor=white)](https://code.visualstudio.com/)
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter_notebook-code_editor-d1d1d1?style=for-the-badge&logo=jupyter&labelColor=FFA500&logoColor=white)](https://jupyter.org/)
+[![NetBeans IDE 8.2](https://img.shields.io/badge/netbeans_ide_8.2-code_editor-d1d1d1?style=for-the-badge&logo=apache&labelColor=708090&logoColor=white)](https://netbeans.apache.org/)
+[![Eclipse for Enterprise Java Developers](https://img.shields.io/badge/Eclipse_for_Enterprise_Java_Developers-code_editor-d1d1d1?style=for-the-badge&logo=eclipse&labelColor=5e0087&logoColor=white)](https://www.eclipse.org/)
 
 ### For Web Development 💻:
 
