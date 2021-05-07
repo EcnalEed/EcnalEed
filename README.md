@@ -1,8 +1,8 @@
 <img src="https://github.com/EcnalEed/EcnalEed/blob/main/Banner.jpg" alt="Banner">
 
-## Hi there 👋 I'm Lance.
+## Hi there 👋 I'm LanceDdot.
 
-Currently pursuing a Bachelor's Degree in Information Technology at Mapúa University. 
+Currently pursuing a Bachelor's Degree in Information Technology, specializing in Cybersecurity.
 
 ### Technologies that I'm currently using 💻:
 
