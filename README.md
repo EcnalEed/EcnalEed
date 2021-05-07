@@ -2,7 +2,7 @@
 
 ## Hi there 👋 I'm LanceDdot.
 
-Currently pursuing a Bachelor's Degree in Information Technology, specializing in Cybersecurity.
+Currently pursuing a Bachelor of Science Degree in Information Technology, specializing in Cybersecurity.
 
 ### Technologies that I'm currently using 💻:
 
